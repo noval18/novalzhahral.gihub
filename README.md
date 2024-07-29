@@ -1,1 +1,1 @@
-# novalzhahral.gihub
+# novalzhahral.github
